@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/cpapasta-tenant/devfile-sample/devfile-sample@sha256:ecde8a421baf74e2dd84ce4e85ea9fdb0d96f01e5829be166eb218b807ee7dc5
+      - image: quay.io/redhat-user-workloads-stage/cpapasta-tenant/devfile-sample/devfile-sample@sha256:e6a9d0f855930e3f19d6f843d6b995bdaf2c9d07bfda4f8296bfe1c14bbdbd51
         name: my-nodejs
         resources: {}
 status: {}
